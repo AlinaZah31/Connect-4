@@ -1,7 +1,7 @@
 currentPlayer = "red";
 let weHaveWinner = 0; 
 let board = [];
-let noLines = 6, noCol = 7, TEN = 10;
+const noLines = 6, noCol = 7, TEN = 10;
 
 initializeBoard();
 
